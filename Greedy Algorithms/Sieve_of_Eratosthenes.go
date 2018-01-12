@@ -1,3 +1,4 @@
+//Algorithm for Sieve of Eratosthenes
 package main
 
 import (
